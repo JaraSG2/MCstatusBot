@@ -1,0 +1,12 @@
+{
+    "token": "BOT TOKEN",
+    "channel_id": "channel ID",
+    "server_ip": "server IP",
+    "server_port": "server port",
+    "language": "cs",
+    "show_motd": true,
+    "show_ip": true,
+    "show_port": true,
+    "show_player_count": true,
+    "logo_url": "Logo URL"
+  }

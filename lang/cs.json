@@ -1,0 +1,10 @@
+{
+    "status_online": "Online",
+    "status_offline": "Offline",
+    "server_name": "Název serveru",
+    "motd": "MOTD",
+    "ip": "IP Adresa",
+    "port": "Port",
+    "player_count": "Počet Hráčů",
+    "refresh": "Obnovit"
+  }

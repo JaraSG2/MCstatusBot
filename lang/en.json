@@ -1,0 +1,10 @@
+{
+    "status_online": "Online",
+    "status_offline": "Offline",
+    "server_name": "Server Name",
+    "motd": "MOTD",
+    "ip": "IP Address",
+    "port": "Port",
+    "player_count": "Player Count",
+    "refresh": "Refresh"
+  }
