@@ -54,7 +54,7 @@ async def update_status_message():
     if config["show_port"]:
         embed.add_field(name=lang["port"], value=config["server_port"], inline=True)
     
-    if status["Status"]:
+    if status["online"]:
         embed.add_field(name=lang["status_online"], value="🟢 " + lang["status_online"], inline=False)
         if config["show_player_count"]:
             embed.add_field(name=lang["player_count"], value=f'{status["player_count"]}/{status["max_players"]}', inline=True)
